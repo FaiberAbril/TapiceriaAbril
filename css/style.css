@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:8px;
+    top: 62%;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:20;
+}
+.float:hover {
+	text-decoration: none;
+	color: #25d366;
+  background-color:#fff;
+}
+
+.floatTelefono{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:8px;
+    top: 70%;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:20;
+}
+.floatTelefono:hover {
+	text-decoration: none;
+	color: #25d366;
+  background-color:#fff;
+}
+
+
+
+.floatMessenger{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:8px;
+    top: 78%;
+	background-color:#3b5998;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:20;
+}
+.floatMessenger:hover {
+	text-decoration: none;
+	color: #3b5998;
+  background-color:#fff;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+.capa{
+    width: 1000px; 
+    height: 40%;
+}
